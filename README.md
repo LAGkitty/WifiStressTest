@@ -13,9 +13,8 @@ A Python-based network performance testing tool with an intuitive GUI interface 
 - **Visual Status Indicators**: Color-coded status indicators for test state monitoring
 - **Safe Testing Endpoints**: Uses public testing APIs that can handle traffic loads
 
-## Screenshots
+## The application features:
 
-The application features:
 - Intensity slider (10-100%) for controlling test aggression
 - Configurable concurrent connections (1-50 threads)
 - Adjustable request delays (10-1000ms)
