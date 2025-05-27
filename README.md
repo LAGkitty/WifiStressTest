@@ -55,7 +55,7 @@ The tool also uses the following built-in Python modules:
    ```
 3. Run the application:
    ```bash
-   python wifi.py
+   python WifiStressTest.py
    ```
 
 ## Usage
@@ -64,7 +64,7 @@ The tool also uses the following built-in Python modules:
 
 1. **Launch the Application**:
    ```bash
-   python wifi.py
+   python WifiStressTest.py
    ```
 
 2. **Configure Test Parameters**:
